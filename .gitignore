@@ -11,10 +11,10 @@ yarn-error.log*
 # Logs
 logs
 *.log
+log.txt
 
 # Environment files
 .env
-.env.example
 
 # Build output
 dist/
